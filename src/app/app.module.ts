@@ -16,7 +16,9 @@ import { MatInputModule} from '@angular/material/input';
     BrowserModule,
     BrowserAnimationsModule,
     MatTableModule,
-    MatSortModule
+    MatSortModule,
+    MatFormFieldModule,
+    MatInputModule,
   ],
   providers: [],
   bootstrap: [AppComponent]
